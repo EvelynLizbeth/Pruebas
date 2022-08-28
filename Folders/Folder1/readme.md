@@ -1,6 +1,10 @@
 Hello
 
 
+- George Washington
+- John Adams
+- Thomas Jefferson
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
